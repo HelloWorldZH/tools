@@ -8,7 +8,7 @@ import android.widget.Button;
 /**
  * 水波纹效果 demo
  * @author zihao
- * Email zihaopublicacc@gmail.com
+ * Email zihao131125@gmail.com
  *
  */
 public class MyActivity extends Activity {
