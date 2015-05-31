@@ -31,11 +31,11 @@ public class MyActivity extends Activity {
             public void onClick(View v) {
 
                 if(wave.isStarting() ){
-                    btn1.setText("开始");
+                    btn1.setText("继续");
                     wave.stop();
                 }
                 else{
-                    btn1.setText("停止");
+                    btn1.setText("暂停");
                     wave.start();
                 }
             }
