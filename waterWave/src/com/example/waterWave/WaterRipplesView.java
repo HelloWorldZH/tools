@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 水波纹效果
  * @author zihao
- * Email zihao131125@gmail.com
+ * Email zihaopublicacc@gmail.com
  *
  */
 
